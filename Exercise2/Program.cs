@@ -14,7 +14,6 @@ namespace Exercise2
             {
                 displaymenu = Menu();
             }
-            
         }
         private static bool Menu()
         {
